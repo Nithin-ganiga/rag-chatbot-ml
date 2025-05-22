@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+faiss-cpu
+chromadb
+pdfplumber
+pymupdf
