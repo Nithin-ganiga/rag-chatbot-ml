@@ -5,3 +5,4 @@ faiss-cpu
 chromadb
 pdfplumber
 pymupdf
+qdrant-client  # can use instead of faiss
