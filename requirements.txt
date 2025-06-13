@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit==1.36.0
+langchain==0.0.311
+requests==2.31.0
+
+# Vector database
+chromadb==0.4.22
+faiss-cpu==1.7.4
+
+# PDF processing
+pdfplumber==0.10.3
+PyMuPDF==1.22.5
+
+# Utilities
+python-multipart==0.0.6
+python-dotenv==1.0.0
+pandas==2.0.3
+watchdog==3.0.0
+setuptools>=65.0.0

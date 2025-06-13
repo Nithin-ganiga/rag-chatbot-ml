@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+include requirements.txt
+include env.example
+include data/raw/.gitkeep
+include data/processed/.gitkeep
+recursive-include src *.py 
